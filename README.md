@@ -11,7 +11,7 @@
 [用語集](https://github.com/shirota111/origin/blob/main/HELP/用語集.md)
 
 
-## 7年前の雑魚PC（グラボ2GBメモリ）でポートフォリオの作成経緯と使用技術
+## ポートフォリオの作成経緯と使用技術
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
