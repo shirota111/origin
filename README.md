@@ -1,5 +1,4 @@
 
-
 [Q and A](https://github.com/[shirota111]/[shirota111.github.io]/blob/[demo]/[HELP]/［QandA.md］)
 
 
