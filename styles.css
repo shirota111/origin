@@ -9,6 +9,7 @@
             font-family: 'Noto Serif JP', serif;
             background-image: url('1.10.10_313420711.gif');
             background-size: cover;
+　　　　　　　background-repeat: repeat;
         }
 
         /* デスクトップ用の背景 */
