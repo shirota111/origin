@@ -41,10 +41,10 @@ document.addEventListener('DOMContentLoaded', function() {
         bookItem1.append('←リンクも使えます。');
 
         const bookItem2 = document.createElement('li');
-        bookItem2.textContent = 'この本はCSSで作成されています。';
+        bookItem2.textContent = '📕';
 
         const bookItem3 = document.createElement('li');
-        bookItem3.textContent = 'カーソルがホバーしている間は開いたままです。';
+        bookItem3.textContent = '🐓';
 
         bookList.appendChild(bookItem1);
         bookList.appendChild(bookItem2);
