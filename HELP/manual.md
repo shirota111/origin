@@ -2,13 +2,13 @@
 
 #To do list
 
-- [ ] vscode github
+- [ ] vscode github　マークダウン記法の導入
 - [ ] 環境設定
 - [ ] github pages
 - [ ] コンテンツ作成
 - [ ] ナレッジベースの構築
 - [ ] GROWI + Elasticsearch
-- [ ]
+- [ ] 
 - [ ]
 
 ## 見出し2
