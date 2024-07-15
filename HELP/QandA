@@ -23,6 +23,12 @@ git reset --hard HEAD^
 
 git log
 
+強制プッシュを実行する
+以下のコマンドを使用して、ローカルの変更をリモートに強制的にプッシュします。
+
+git push origin main --force
+
+
 基本的なコマンド
 git init: 新しいGitリポジトリを初期化します。
 git clone <リポジトリURL>: リモートリポジトリをローカルにクローン（コピー）します。
