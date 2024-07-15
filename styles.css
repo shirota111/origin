@@ -1,4 +1,4 @@
-     /* デスクトップ用とスマートフォン用の共通スタイル */
+ /* デスクトップ用とスマートフォン用の共通スタイル */
         body {
             display: flex;
             flex-direction: column;
@@ -7,13 +7,13 @@
             height: 150vh;
             margin: 0;
             font-family: 'Noto Serif JP', serif;
+            background-image: url('1.10.10_313420711.gif');
+            background-size: cover;
         }
 
         /* デスクトップ用の背景 */
         @media (min-width: 769px) {
             body {
-                background-image: url('1.10.10_313420711.gif');
-                background-size: cover;
                 background-repeat: repeat;
                 background-attachment: fixed;
             }
@@ -22,8 +22,7 @@
         /* スマートフォン用の背景 */
         @media (max-width: 768px) {
             body {
-                background-image: url('1.10.10_313420711.gif');
-background-repeat: repeat;
+                background-repeat: repeat;
                 /* 追加のスタイル調整（必要に応じて） */
             }
         }
