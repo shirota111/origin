@@ -2,7 +2,7 @@
 
 #To do list
 
-- [ ] vscode github　マークダウン記法の導入
+- [ ] vscode githubの導入
 - [ ] 環境設定
 - [ ] github pages
 - [ ] コンテンツ作成
