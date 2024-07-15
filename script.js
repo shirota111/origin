@@ -66,12 +66,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
         bookContainer.appendChild(bookWrap);
 
-        // 各リンクにイベントリスナーを追加
+ // 各リンクにイベントリスナーを追加
         (function(index) {
             bookLink.addEventListener('click', function(event) {
-                event.preventDefault();
-                alert(`リンク ${index + 1} がクリックされました。リンク先: ${bookLink.href}`);
-                window.location.href = bookLink.href;  // アラートの後にリンク先に移動
+               
+//　デフォルトの移動を抑制
+ event.preventDefault();
+ 
+               
+ alert(`リンク ${index + 1} がクリックされました。リンク先: ${bookLink.href}`);
+                window.location.href =　bookLink.href;  
+
+// アラートの後にリンク先に移動
             });
         })(i);
     }
