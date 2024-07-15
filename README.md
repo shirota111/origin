@@ -2,13 +2,13 @@
 [Q and A](https://github.com/shirota111/origin/blob/main/HELP/QandA.md)
 
 
-[目次（マニュアル）](https://github.com/shirota111/origin/blob/main/HELP/manual.md)
+[目次（マニュアル）📕](https://github.com/shirota111/origin/blob/main/HELP/manual.md)
 
 
-[Project tree](https://github.com/shirota111/origin/blob/main/HELP/projecttree.md)
+[Project tree🌳](https://github.com/shirota111/origin/blob/main/HELP/projecttree.md)
 
 
-[用語集](https://github.com/shirota111/origin/blob/main/HELP/用語集.md)
+[用語集💾](https://github.com/shirota111/origin/blob/main/HELP/用語集.md)
 
 
 ## ポートフォリオの作成経緯と使用技術
