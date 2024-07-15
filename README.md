@@ -2,7 +2,7 @@
 [Q and A](https://github.com/shirota111/origin/blob/main/HELP/QandA.md)
 
 
-[マニュアル](https://github.com/shirota111/origin/blob/main/HELP/manual.md)
+[目次（マニュアル）](https://github.com/shirota111/origin/blob/main/HELP/manual.md)
 
 
 [Project tree](https://github.com/shirota111/origin/blob/main/HELP/projecttree.md)
