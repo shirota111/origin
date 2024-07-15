@@ -1,12 +1,33 @@
-   
+     /* デスクトップ用とスマートフォン用の共通スタイル */
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            height: 150vh;
+            margin: 0;
+            font-family: 'Noto Serif JP', serif;
+        }
 
-﻿body {
-    background-color: lightblue;
-    background-image: url('1.10.10_313420711.gif');
-    background-size: 2000px 800px;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
+        /* デスクトップ用の背景 */
+        @media (min-width: 769px) {
+            body {
+                background-image: url('1.10.10_313420711.gif');
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+            }
+        }
+
+        /* スマートフォン用の背景 */
+        @media (max-width: 768px) {
+            body {
+                background-image: url('1.10.10_313420711.gif');
+                /* 追加のスタイル調整（必要に応じて） */
+            }
+        }
+
+﻿
 
 
 
