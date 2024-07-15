@@ -1,5 +1,5 @@
 
-[Q and A](https://github.com/[shirota111]/[shirota111.github.io]/blob/[demo]/[HELP]/［QandA.md］)
+[Q and A](https://github.com/[shirota111]/[origin]/blob/[main]/[HELP]/［QandA.md］)
 
 
 ## 7年前の雑魚PC（グラボ2GBメモリ）でポートフォリオの作成経緯と使用技術
