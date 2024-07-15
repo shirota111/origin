@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
  event.preventDefault();
  
                
- alert(`リンク ${index + 1} がクリックされました。リンク先: ${bookLink.href}`);window.location.href =　bookLink.href;  
+ alert(`リンク ${index + 1} がクリックされました。リンク先: ${bookLink.href}`);window.location.href = bookLink.href;  
 
 // アラートの後にリンク先に移動
             });
