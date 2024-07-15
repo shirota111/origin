@@ -1,4 +1,4 @@
-#見出し
+#To do list
 
 
 - [ ] vscode github
@@ -6,4 +6,6 @@
 - [ ] github pages
 - [ ] コンテンツ作成
 - [ ] ナレッジベースの構築
+- [ ]
+- [ ]
 - [ ]
