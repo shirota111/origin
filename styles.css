@@ -14,7 +14,7 @@
             body {
                 background-image: url('1.10.10_313420711.gif');
                 background-size: cover;
-                background-repeat: no-repeat;
+                background-repeat: repeat;
                 background-attachment: fixed;
             }
         }
