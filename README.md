@@ -1,6 +1,6 @@
-https://github.com/[shirota111]/[shirota111.github.io]/blob/[demo]/[HELP]/［］
 
-[GitHub](https://github.com)
+
+[Q and A](https://github.com/[shirota111]/[shirota111.github.io]/blob/[demo]/[HELP]/［QandA.md］)
 
 
 ## 7年前の雑魚PC（グラボ2GBメモリ）でポートフォリオの作成経緯と使用技術
