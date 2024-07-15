@@ -1,5 +1,5 @@
 # Help💡
-[Q and A](https://github.com/shirota111/origin/blob/main/HELP/QandA.md)
+[Q and A🆘](https://github.com/shirota111/origin/blob/main/HELP/QandA.md)
 
 
 [目次（マニュアル）📕](https://github.com/shirota111/origin/blob/main/HELP/manual.md)
