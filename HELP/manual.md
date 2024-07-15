@@ -1,9 +1,9 @@
 #見出し
 
--vscode github
--環境設定
--github pages
--コンテンツ作成
--ナレッジベースの構築
 
-
+- [ ] vscode github
+- [ ] 環境設定
+- [ ] github pages
+- [ ] コンテンツ作成
+- [ ] ナレッジベースの構築
+- [ ]
