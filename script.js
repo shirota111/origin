@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // 各リンクにクリックイベントリスナーを追加
         bookLink.addEventListener('click', function(event) {
-            event.preventDefault(); // デフォルトのリンク動作を抑制
+            
 
             // アラートを表示
             alert(`リンク ${i + 1} がクリックされました。リンク先: ${bookLink.href}`);
