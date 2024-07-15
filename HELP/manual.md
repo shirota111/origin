@@ -7,7 +7,7 @@
 - [ ] github pages
 - [ ] コンテンツ作成
 - [ ] ナレッジベースの構築
-- [ ]
+- [ ] GROWI + Elasticsearch
 - [ ]
 - [ ]
 
