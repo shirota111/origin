@@ -23,6 +23,7 @@
         @media (max-width: 768px) {
             body {
                 background-image: url('1.10.10_313420711.gif');
+background-repeat: repeat;
                 /* 追加のスタイル調整（必要に応じて） */
             }
         }
