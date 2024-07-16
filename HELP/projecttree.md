@@ -1,7 +1,7 @@
 project-root/  
 ├── HELP/  
 │   ├── MANUAL/  
-│   ├──  
+│   ├── Q_and_A/
 │   └── GLOSSARY/  
 ├── folder1/  
 ├── folder2/  
